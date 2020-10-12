@@ -1,25 +1,26 @@
-body {
-  background-image: url(texture-319748_1920.png);
-  position: absolute;
-  width: 1440px;
-  height: 900px;
+header {
+  background-image: url (headertop2.png)
+  background-size: 100%;
+  background-position: top center;
+  background-repeat: no-repeat;
+
 }
+
 h1 {
   position: absolute;
-  width: 980px;
-  height: 95px;
-  left: 230px;
-  top: 0px;
+  width: 764px;
+  height: 73px;
+  left: 338px;
+  top: 94px;
 
-  font-family: PT Serif;
+  font-family: LC Chalk;
   font-style: normal;
-  font-weight: bold;
-  font-size: 48px;
-  line-height: 64px;
+  font-weight: normal;
+  font-size: 50px;
+  line-height: 78px;
   display: flex;
   align-items: center;
-  text-align: center;
+  text-transform: capitalize;
 
-color: #661B1B;
-
+  color: #000000;
 }
